@@ -36,3 +36,6 @@ input {
 img {
 	max-width: 300px;
 }
+.checkBox {
+	display: flex;
+}
