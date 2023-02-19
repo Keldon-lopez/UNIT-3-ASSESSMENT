@@ -39,3 +39,9 @@ img {
 .checkBox {
 	display: flex;
 }
+.favBtn {
+	background: yellow;
+	height:40px ;
+	width:150px ;
+	font-size: medium;
+}
